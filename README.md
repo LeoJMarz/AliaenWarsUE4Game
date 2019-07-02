@@ -14,4 +14,4 @@ LINK To Game https://drive.google.com/drive/folders/1MlzlIlNhvBPGSz0DxXkBaKMuDXg
 
 In order to play the game dowload the whole folder and click on AlienWarsHTML5 Then HTML5, after that click on click me.html to run game
 
-You Can also use the .exe version in WindowsNotEditor, however your coumputer will say it is a virus but I insure you it is not and if you stil fell uncomfortable than use the HTML5 version. 
+You Can also use the .exe version in WindowsNotEditor, however your coumputer will say it is a virus but I insure you it is not and if you   fell uncomfortable than use the HTML5 version. 
